@@ -1,3 +1,7 @@
 from hello import ipl
 
-ipl("RCB vs SRH")
+ipl("CSK vs LSG")
+
+import sys
+
+print(sys.version)
